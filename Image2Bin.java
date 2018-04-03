@@ -1,3 +1,5 @@
+//ここでは、絶対パスで指定した画像を二値化していきます。
+
 import org.opencv.core.Core;
 import org.opencv.core.Mat;
 import org.opencv.imgcodecs.Imgcodecs;
